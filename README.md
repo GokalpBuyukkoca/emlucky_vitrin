@@ -1,6 +1,6 @@
 # 🏛️ Emlucky - Yeni Nesil Gayrimenkul Platformu
 
-Emlucky, gayrimenkul sektörüne "Apple" vizyonuyla yaklaşan; yüksek teknoloji, minimalizm ve kusursuz kullanıcı deneyimini (UI/UX) bir araya getiren yeni nesil bir emlak platformudur. 
+Emlucky; yüksek teknoloji, minimalizm ve kusursuz kullanıcı deneyimini (UI/UX) bir araya getiren yeni nesil bir emlak platformudur. 
 
 Her bütçeye uygun ilanları "Exclusive" ve "Fırsat" etiketleriyle kapsayıcı bir dille sunarken, arka planda çalışan canlı REST API mimarisi ile gerçek bir yazılım ürünü (SaaS) deneyimi yaşatır.
 
@@ -11,7 +11,6 @@ Her bütçeye uygun ilanları "Exclusive" ve "Fırsat" etiketleriyle kapsayıcı
 ## ✨ Öne Çıkan Özellikler
 
 - **🌐 Tam Entegre Canlı Portföy (CRUD):** İlanlar statik değildir. Node.js üzerinde çalışan backend API'si sayesinde gerçek zamanlı olarak ilan eklenebilir, silinebilir ve fiyat güncellenebilir.
-- **🧠 Akıllı Görsel Algoritması (Hash-Based):** Eklenen her ilan, ID'sine, fiyatına ve metrekaresine göre matematiksel bir hash fonksiyonundan geçer. Sistem, ilanın segmentine (Ultra Lüks, Premium, Standart) en uygun gerçekçi fotoğrafı kalıcı olarak atar.
 - **🤖 Emlucky Intelligence (AI Asistan):** Doğal dil işleme simülasyonu ile çalışan, kelime bazlı algılama yaparak kullanıcılara gayrimenkul önerilerinde bulunan interaktif sohbet botu.
 - **🎬 Sinematik Arayüz & Animasyonlar:** - **Three.js** kullanılarak donanımsal hızlandırmalı 3D interaktif arka plan.
   - **GSAP & Intersection Observer** ile kaydırdıkça akıcı bir şekilde beliren (Fade In Up) elementler.
